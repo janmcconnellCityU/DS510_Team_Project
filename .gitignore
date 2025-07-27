@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Logs and outputs
+*.log
+*.out
+
+# Model checkpoints or large outputs
+*.h5
+*.pt
+*.pth
+
+# Environment variables or secrets
+.env
