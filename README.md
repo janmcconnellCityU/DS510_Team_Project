@@ -12,7 +12,5 @@ We are using a subset of 150 images (50 cats, 50 dogs, and 50 birds) from the fo
 Image preprocessing steps such as resizing and grayscale conversion will be applied during development to standardize the input data for model training.
 
 ## Project Team  
-- **Dawit Hailu, MSAI** – hailudawith@cityuniversity.edu  
 - **Geraldine Marten-Ellis, MSCS** – martenellisgeraldin@cityuniversity.edu  
 - **Jan McConnell, MSDS** – janmcconnell@cityuniversity.edu  
-- **Aaron Smith, MSCS** – smithaaron@cityuniversity.edu  
