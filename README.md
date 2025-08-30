@@ -10,7 +10,3 @@ We are using a subset of 150 images (50 cats, 50 dogs, and 50 birds) from the fo
 > Mahmoud, N. (2022). *High resolution cat-dog-bird image dataset (13000 images)* [Data set]. Kaggle. https://www.kaggle.com/datasets/mahmoudnoor/high-resolution-catdogbird-image-dataset-13000
 
 Image preprocessing steps such as resizing and grayscale conversion will be applied during development to standardize the input data for model training.
-
-## Project Team  
-- **Geraldine Marten-Ellis, MSCS** – martenellisgeraldin@cityuniversity.edu  
-- **Jan McConnell, MSDS** – janmcconnell@cityuniversity.edu  
